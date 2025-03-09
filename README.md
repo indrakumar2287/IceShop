@@ -6,6 +6,6 @@ Flutter: 3.24.3
 State Management: Provider
 
 Setup-
-Clone the repo- 
+Clone the repo- https://github.com/indrakumar2287/IceShop.git
 Run flutter pub get
 Use flutter run to start the app
